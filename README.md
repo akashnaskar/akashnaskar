@@ -29,8 +29,7 @@ An avid learner & tech blogger by passion, I'm a strong believer in the ideology
 ![Firebase](https://img.shields.io/badge/-Firebase-9e0202?&logo=Firebase&logoColor=bdc700)
 
 #### Others:
-[![C](https://img.shields.io/badge/-C-808080?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-![C++](https://img.shields.io/badge/-C++-9c9c9c?&logo=c%2b%2b&logoColor=00599C)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
