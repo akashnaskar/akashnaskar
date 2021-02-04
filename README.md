@@ -21,16 +21,14 @@ An avid learner & tech blogger by passion, I'm a strong believer in the ideology
 ![Seaborn](https://img.shields.io/badge/-Seaborn-1b0275?&logo=Seaborn&logoColor=336791)
 ![Plotly](https://img.shields.io/badge/-Plotly-1d0180?&logo=Plotly&logoColor=336791)
 
-#### Full Stack Development Stack:
-![Flutter](https://img.shields.io/badge/-Flutter-4f0000?&logo=Flutter&logoColor=0bf)
-![Dart](https://img.shields.io/badge/-Dart-5e0000?&logo=Dart&logoColor=0bf)
-![SQLite](https://img.shields.io/badge/-SQLite-730101?&logo=SQLite&logoColor=fff)
-![Django](https://img.shields.io/badge/-Django-870101?&logo=Django&logoColor=0d0)
-![Firebase](https://img.shields.io/badge/-Firebase-9e0202?&logo=Firebase&logoColor=bdc700)
 
 #### Others:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 
 
