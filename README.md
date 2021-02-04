@@ -5,7 +5,7 @@
 #### My machine and I are learning right now. By the time, you can have a look at my profile.
 
 ### ABOUT ME:
-An avid learner & tech blogger by passion, I'm a strong believer in the ideology that __data is the new oil in the 21st century__. I'm currently pursuing B.Tech. in Electrical Engineering with keen interest in Artificial Intelligence and Machine Learning. A supporter of universal free education, I spend my weekends  educating myself, writing technical blogs and tutorials, and others. 
+An avid learner & data science enthusiast by passion, I'm a strong believer in the ideology that __data is the new oil in the 21st century__. I'm currently pursuing B.Tech. in Electrical Engineering with keen interest in Artificial Intelligence and Machine Learning. A supporter of universal free education, I spend my weekends  educating myself, writing technical blogs and tutorials, and others. 
 
 > __"Let the dataset change your mindset.."__
 
